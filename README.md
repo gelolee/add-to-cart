@@ -1,5 +1,5 @@
 # add-to-cart
-To view my website follow this steps.
+To setup and run my code follow this steps. If you have any problem just email me
 
 1. If you are in my repository Switch the branch to master.
 2. Then click "<>Code" and download the zip file.
